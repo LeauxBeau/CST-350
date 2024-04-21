@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5716B15E-BB99-48D7-816E-7584C686C68D}|CLCProject.csproj|c:\\users\\austi\\onedrive\\desktop\\repositories (github)\\cst-350\\clcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5716B15E-BB99-48D7-816E-7584C686C68D}|CLCProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5716B15E-BB99-48D7-816E-7584C686C68D}|CLCProject.csproj|C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5716B15E-BB99-48D7-816E-7584C686C68D}|CLCProject.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:52:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\Repositories (GitHub)\\CST-350\\CLCProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:52:20.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
